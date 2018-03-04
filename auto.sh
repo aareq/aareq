@@ -11,7 +11,7 @@ expect \"pool.usxmrpool.com:3333\"
 send \"pool.supportxmr.com:3333\n\"
 
 expect \"(wallet address or pool login):\"
-send \"48TxcrWCLKx5mttjjaD9dHYWmz5bPfxQfUVNv7LJ1pwaVAfUY4H9xNzRr2eoH6XwZW6ewp1pxWX4QdmYAcgf9SAw6m62BT5\n\"
+send \"42QdiPLCJUdThHZgeFViq25WbPRz1VnJ4TaEpBc92DpPEuAD5LujHEA4Uz4av6eLyuCPD9ahrYHWnYQW8tmcrekX5ZUDQJK\n\"
 
 expect \"(mostly empty or x):\"
 send \"worker\n\"
